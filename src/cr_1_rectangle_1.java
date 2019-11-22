@@ -20,6 +20,8 @@ public class cr_1_rectangle_1 {
 
         System.out.println("Rectangle 20x30 has a area of: "+calculateRectArea(50, 80));
         System.out.println("Rectangle 30x40 has a area of: "+calculateRectArea(60,90));
+        System.out.println("Rectangle 20x30 has a area of: "+calculateRectArea(120, 150));
+        System.out.println("Rectangle 30x40 has a area of: "+calculateRectArea(200,300));
 
 
         //Bonus Point 1
